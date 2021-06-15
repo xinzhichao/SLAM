@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xinzhichao/CLionProjects/SLAM/calibration/Calibration.cpp
+opencv2/core/core.hpp
+/home/xinzhichao/CLionProjects/SLAM/calibration/opencv2/core/core.hpp
+opencv2/imgproc/imgproc.hpp
+/home/xinzhichao/CLionProjects/SLAM/calibration/opencv2/imgproc/imgproc.hpp
+opencv2/calib3d/calib3d.hpp
+/home/xinzhichao/CLionProjects/SLAM/calibration/opencv2/calib3d/calib3d.hpp
+opencv2/highgui/highgui.hpp
+/home/xinzhichao/CLionProjects/SLAM/calibration/opencv2/highgui/highgui.hpp
+iostream
+-
+fstream
+-
+

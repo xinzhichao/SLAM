@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xinzhichao/CLionProjects/SLAM/calibration/Calibration2.cpp
+iostream
+-
+sstream
+-
+time.h
+-
+stdio.h
+-
+fstream
+-
+boost/format.hpp
+-
+opencv2/core/core.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/calib3d/calib3d.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+
